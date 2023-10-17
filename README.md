@@ -1,1 +1,1 @@
-# jogo_pong
+# jogo_bola_azul_vermelha
